@@ -1,1 +1,2 @@
 This is Repo created for Git pactical
+This is content after 1st commit
